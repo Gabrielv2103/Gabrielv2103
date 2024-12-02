@@ -22,8 +22,8 @@ Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovad
 - **[Outro Projeto](https://github.com/Gabrielv2103/outro-projeto):** Outro exemplo de projeto.  
 
 ### 📫 Vamos nos conectar?  
-- **Email:** [gabriel@example.com](mailto:gabriel@example.com)  
-- **LinkedIn:** [Gabriel](https://linkedin.com/in/Gabrielv2103)  
+- **Email:** [gabriel.v.santos.c@gmail.com](mailto:gabriel.v.santos.c@gmail.com)  
+- **LinkedIn:** [Gabriel Vinícius Santos Caetano](https://linkedin.com/in/gabriel-vinicius-santos-caetano)  
 - **Portfólio:** [Gabriel.com](https://Gabrielv2103.github.io)  
 
 ### 💡 Curiosidades  
