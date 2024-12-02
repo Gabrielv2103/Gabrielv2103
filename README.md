@@ -28,7 +28,7 @@ Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovad
 ### 📫 Vamos nos conectar?  
 - **Email:** [gabriel.v.santos.c@gmail.com](mailto:gabriel.v.santos.c@gmail.com)  
 - **LinkedIn:** [Gabriel Vinícius Santos Caetano](https://linkedin.com/in/gabriel-vinicius-santos-caetano)  
-- **Instagram:** [@gabriel_v2103](https://www.instagram.com/gabriel_v2103/) ![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png)  
+- **Instagram:** [@gabriel_v2103](https://www.instagram.com/gabriel_v2103/)  
 
 ### 💡 Curiosidades  
 - 🌍 Amo explorar novas tecnologias e contribuir com a comunidade open source.  
