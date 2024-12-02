@@ -21,10 +21,14 @@ Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovad
 - **[Projeto Nomeado](https://github.com/Gabrielv2103/projeto-nomeado):** Breve descrição do que faz.  
 - **[Outro Projeto](https://github.com/Gabrielv2103/outro-projeto):** Outro exemplo de projeto.  
 
+### 📜 Certificações  
+- **[Certificação Python - Coursera](https://www.coursera.org/):** Curso de Python para Iniciantes.
+- **[Certificação Web Development - Udemy](https://www.udemy.com/):** Desenvolvendo Sites com HTML, CSS e JavaScript.
+
 ### 📫 Vamos nos conectar?  
 - **Email:** [gabriel.v.santos.c@gmail.com](mailto:gabriel.v.santos.c@gmail.com)  
 - **LinkedIn:** [Gabriel Vinícius Santos Caetano](https://linkedin.com/in/gabriel-vinicius-santos-caetano)  
-- **Portfólio:** [Gabriel.com](https://Gabrielv2103.github.io)  
+- **Instagram:** [@gabriel_v2103](https://www.instagram.com/gabriel_v2103/) ![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png)  
 
 ### 💡 Curiosidades  
 - 🌍 Amo explorar novas tecnologias e contribuir com a comunidade open source.  
