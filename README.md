@@ -24,8 +24,8 @@ Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovad
 - **[Outro Projeto](https://github.com/Gabrielv2103/outro-projeto):** Um projeto interessante que [breve descrição].
 
 ### 📜 Certificações  
-- **[Certificação Python - Coursera](https://www.coursera.org/):** Curso de Python para Iniciantes.
-- **[Certificação Web Development - Udemy](https://www.udemy.com/):** Desenvolvendo Sites com HTML, CSS e JavaScript.
+- **[Pensamento Computacional - EV.org.br](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=11353401&p=jfdildP8Hbhl6oi%252bQLK65CIHqrLxjoqE):** Certificação em Pensamento Computacional.  
+- **[Crie um site simples usando HTML, CSS e JavaScript - EV.org.br](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=11353401&p=jfdildP8HbhKRDtig7WKDCUP4bghxY7w):** Certificação em Desenvolvimento de Sites.
 
 ### 📫 Vamos nos conectar?  
 - **Email:** [gabriel.v.santos.c@gmail.com](mailto:gabriel.v.santos.c@gmail.com)  
