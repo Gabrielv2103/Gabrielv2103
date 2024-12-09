@@ -42,4 +42,8 @@ Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovad
 > "A melhor maneira de prever o futuro é inventá-lo." – Alan Kay
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielv2103&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielv2103&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielv2103&layout=compact&theme=dracula)  
+
+### 📊 Estatísticas do meu WakaTime
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabrielv2103&layout=compact&theme=dracula)
+
