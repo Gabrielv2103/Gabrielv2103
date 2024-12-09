@@ -45,5 +45,5 @@ Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovad
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielv2103&layout=compact&theme=dracula)  
 
 ### 📊 Estatísticas do meu WakaTime
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabrielv2103&layout=compact&theme=dracula)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel&layout=compact&theme=dracula)
 
