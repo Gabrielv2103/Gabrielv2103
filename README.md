@@ -21,8 +21,8 @@ Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovad
 - **Integração de APIs Restful**  
 
 ### 🚀 Projetos Recentes  
-- **[Farmácia Online - Website][(https://github.com/Gabrielv2103/projeto-nomeado](https://github.com/Gabrielv2103/Site01)](https://github.com/Gabrielv2103/Site01):** Um projeto focado em [Farmácia Online ].  
-- **[Outro Projeto](https://github.com/Gabrielv2103/outro-projeto):** Um projeto interessante que [breve descrição].  
+- **[Farmácia Online - Website]https://github.com/Gabrielv2103/Site01:** Um projeto focado em [Farmácia Online ].  
+ 
 
 ### 📜 Certificações  
 - **[Pensamento Computacional - EV.org.br](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=11353401&p=jfdildP8Hbhl6oi%252bQLK65CIHqrLxjoqE):** Certificação em Pensamento Computacional.  
