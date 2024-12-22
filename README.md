@@ -21,7 +21,7 @@ Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovad
 - **Integração de APIs Restful**  
 
 ### 🚀 Projetos Recentes  
-- **[Farmácia Online - Website](https://github.com/Gabrielv2103/projeto-nomeado](https://github.com/Gabrielv2103/Site01):** Um projeto focado em [Farmácia Online ].  
+- **[Farmácia Online - Website][(https://github.com/Gabrielv2103/projeto-nomeado](https://github.com/Gabrielv2103/Site01)](https://github.com/Gabrielv2103/Site01):** Um projeto focado em [Farmácia Online ].  
 - **[Outro Projeto](https://github.com/Gabrielv2103/outro-projeto):** Um projeto interessante que [breve descrição].  
 
 ### 📜 Certificações  
