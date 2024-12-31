@@ -14,8 +14,8 @@ Sou um desenvolvedor apaixonado por tecnologia e pela resolução de problemas a
 
 ### 🌱 Atualmente estou aprendendo  
 - **TypeScript**  
-- **Desenvolvimento Mobile com Flutter**  
 - **Integração de APIs Restful**  
+- **Melhores práticas em front-end responsivo**  
 
 ### 🚀 Projetos Recentes  
 - **[Farmácia Online - Website](https://github.com/Gabrielv2103/Site01):** Projeto focado no desenvolvimento de um site para farmácia online, com design responsivo e funcionalidades úteis.  
