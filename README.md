@@ -1,16 +1,11 @@
- ---
-
 # 💻 Olá, eu sou o Gabriel!  
 
 ### 👨‍💻 Sobre mim  
 Sou um desenvolvedor apaixonado por tecnologia e pela resolução de problemas através do código. Gosto de transformar ideias em soluções práticas e criativas, sempre em busca de novos aprendizados, desafios e oportunidades para colaborar em projetos inovadores. 🚀  
 
 ### 🛠️ Minhas Skills  
-**Linguagens de Programação e Ferramentas:**  
+**Linguagens de Programação e Ferramentas (Front-End):**  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
@@ -52,5 +47,3 @@ Sou um desenvolvedor apaixonado por tecnologia e pela resolução de problemas a
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel&layout=compact&theme=dracula" alt="WakaTime Stats"/>  
 </p>  
-
----
