@@ -34,6 +34,6 @@
 
 ## Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/seu-perfil-linkedin)
-[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=EA4335)](mailto:seuemail@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram&logoColor=E4405F)](https://www.instagram.com/seu_usuario_instagram)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/gabriel-vinicius-santos-caetano/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=EA4335)](mailto:gabriel.v.santos.c@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram&logoColor=E4405F)](https://www.instagram.com/gabriel_v2103/)
