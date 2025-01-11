@@ -1,9 +1,7 @@
-# ✨ Olá, eu sou [Seu Nome]! ✨  
+# ✨ Olá, eu sou Gabriel! ✨  
 
-- 🎓 **Estudante de Engenharia de Software** na [Sua Universidade].  
-- 💻 Apaixonado por **programação**, **aprendizado de máquina**, **ciência de dados** e **robótica**.  
-- 🤖 Membro da equipe de competição [Nome da Equipe], desenvolvendo [projetos como drones autônomos, visão computacional, etc.].  
-- 🚀 Estagiário na [Nome da Empresa ou Instituição].  
+- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na Unip.  
+- 💻 Apaixonado por **programação**, **aprendizado de máquina**, **ciência de dados** .
 
 ---
 
@@ -25,6 +23,6 @@
 
 ## 📫 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vinicius-santos-caetano/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_v2103/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriel.v.santos.c@gmail.com)  
